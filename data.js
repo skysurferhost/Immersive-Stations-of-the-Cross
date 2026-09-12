@@ -42,8 +42,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.08314471050806019,
-          "pitch": -0.41578283890647194,
+          "yaw": -0.04826007148662548,
+          "pitch": -0.41702530403996896,
           "title": "<span dir=\"auto\">1. Jesus is Condemned to Death</span>",
           "text": "<p dir=\"auto\" style=\"margin:0;\">Now when Pilate heard this statement, he became even more afraid, and went back into the praetorium and said to Jesus, “Where are you from?” Jesus did not answer him. So Pilate said to him, “Do you not speak to me? Do you not know that I have power to release you and I have power to crucify you?” Jesus answered [him], “You would have no power over me if it had not been given to you from above. For this reason the one who handed me over to you has the greater sin.”<br>(John 19:8-11)</p>"
         }
@@ -97,8 +97,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.23306233504106344,
-          "pitch": -0.39194976936014614,
+          "yaw": -0.25262711067422394,
+          "pitch": -0.3919379450241749,
           "title": "<span dir=\"auto\">2. Jesus Takes up His Cross</span>",
           "text": "<p dir=\"auto\" style=\"margin:0;\">It was preparation day for Passover, and it was about noon. And he said to the Jews, “Behold, your king!” They cried out, “Take him away, take him away! Crucify him!” Pilate said to them, “Shall I crucify your king?” The chief priests answered, “We have no king but Caesar.” Then he handed him over to them to be crucified. So they took Jesus, and carrying the cross himself he went out to what is called the Place of the Skull, in Hebrew, Golgotha.<br>(John 19:14-17)</p>"
         }
@@ -152,8 +152,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.5214477158646826,
-          "pitch": -0.3533119303208301,
+          "yaw": -0.5413172231599486,
+          "pitch": -0.35574364718098295,
           "title": "<span dir=\"auto\">3. Jesus Falls the First Time</span>",
           "text": "<p dir=\"auto\" style=\"margin:0;\">“If the world hates you, realize that it hated me first. If you belonged to the world, the world would love its own; but because you do not belong to the world, and I have chosen you out of the world, the world hates you. Remember the word I spoke to you, ‘No slave is greater than his master.’ If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours.<br>(John 15:18-20)</p>"
         }
@@ -262,8 +262,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.9340807597953154,
-          "pitch": -0.461092249167804,
+          "yaw": -0.9202800681391032,
+          "pitch": -0.46893225119709214,
           "title": "<span dir=\"auto\">5. Simon of Cyrene Helps Jesus Carry the Cross</span>",
           "text": "<p dir=\"auto\" style=\"margin:0;\">As they led him away they took hold of a certain Simon, a Cyrenian, who was coming in from the country; and after laying the cross on him, they made him carry it behind Jesus.<br>(Luke 23:26)</p>"
         }
@@ -317,8 +317,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.2274579070033531,
-          "pitch": -0.4999124478248318,
+          "yaw": -0.21162410246054542,
+          "pitch": -0.5159148446131852,
           "title": "<span dir=\"auto\">6. Veronica Wipes the Face of Jesus</span>",
           "text": "<p dir=\"auto\" style=\"margin:0;\">Then the righteous will answer him and say, ‘Lord, when did we see you hungry and feed you, or thirsty and give you drink? When did we see you a stranger and welcome you, or naked and clothe you? When did we see you ill or in prison, and visit you?’ And the king will say to them in reply, ‘Amen, I say to you, whatever you did for one of these least brothers of mine, you did for me.’<br>(Matthew 25:37-40)</p>"
         }
@@ -427,8 +427,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.6761137056867608,
-          "pitch": -0.4724580830973599,
+          "yaw": -0.6753952038809299,
+          "pitch": -0.49600359392230153,
           "title": "<span dir=\"auto\">8. Jesus Meets the Women of Jerusalem</span>",
           "text": "<p dir=\"auto\" style=\"margin:0;\">A large crowd of people followed Jesus, including many women who mourned and lamented him. Jesus turned to them and said, “Daughters of Jerusalem, do not weep for me; weep instead for yourselves and for your children, for indeed, the days are coming when people will say, ‘Blessed are the barren, the wombs that never bore and the breasts that never nursed.’ At that time people will say to the mountains, ‘Fall upon us!’ and to the hills, ‘Cover us!’ for if these things are done when the wood is green what will happen when it is dry?”<br>(Luke 23:27-31)</p>"
         }
@@ -647,8 +647,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.5624652163861072,
-          "pitch": -0.23722361046892715,
+          "yaw": 0.5748648986698122,
+          "pitch": -0.24162458403031906,
           "title": "<span dir=\"auto\">12. Jesus Dies on the Cross</span>",
           "text": "<p dir=\"auto\" style=\"margin:0;\">At noon darkness came over the whole land until three in the afternoon. And at three o’clock Jesus cried out in a loud voice, “Eloi, Eloi, lema sabachthani?” which is translated, “My God, my God, why have you forsaken me?” Some of the bystanders who heard it said, “Look, he is calling Elijah.” One of them ran, soaked a sponge with wine, put it on a reed, and gave it to him to drink, saying, “Wait, let us see if Elijah comes to take him down.” Jesus gave a loud cry and breathed his last. The veil of the sanctuary was torn in two from top to bottom. When the centurion who stood facing him saw how he breathed his last he said, “Truly this man was the Son of God!”<br>(Mark 15:33-39)</p>"
         }
