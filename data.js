@@ -647,8 +647,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.5748648986698122,
-          "pitch": -0.24162458403031906,
+          "yaw": 0.5818712511151247,
+          "pitch": -0.2405640494035648,
           "title": "<span dir=\"auto\">12. Jesus Dies on the Cross</span>",
           "text": "<p dir=\"auto\" style=\"margin:0;\">At noon darkness came over the whole land until three in the afternoon. And at three o’clock Jesus cried out in a loud voice, “Eloi, Eloi, lema sabachthani?” which is translated, “My God, my God, why have you forsaken me?” Some of the bystanders who heard it said, “Look, he is calling Elijah.” One of them ran, soaked a sponge with wine, put it on a reed, and gave it to him to drink, saying, “Wait, let us see if Elijah comes to take him down.” Jesus gave a loud cry and breathed his last. The veil of the sanctuary was torn in two from top to bottom. When the centurion who stood facing him saw how he breathed his last he said, “Truly this man was the Son of God!”<br>(Mark 15:33-39)</p>"
         }
@@ -702,8 +702,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.731466925874678,
-          "pitch": -0.483620727348681,
+          "yaw": 0.7388550240720146,
+          "pitch": -0.4871879499541727,
           "title": "<span dir=\"auto\">13. Jesus is Taken Down from the Cross</span>",
           "text": "<p dir=\"auto\" style=\"margin:0;\">So the soldiers came and broke the legs of the first and then of the other one who was crucified with Jesus. But when they came to Jesus and saw that he was already dead, they did not break his legs, but one soldier thrust his lance into his side, and immediately blood and water flowed out. After this, Joseph of Arimathea, secretly a disciple of Jesus for fear of the Jews, asked Pilate if he could remove the body of Jesus. And Pilate permitted it. So he came and took his body. Nicodemus, the one who had first come to him at night, also came bringing a mixture of myrrh and aloes weighing about one hundred pounds.<br>(John 19:32-34, 38-39)</p>"
         }
