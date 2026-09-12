@@ -42,8 +42,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.0349598561430291,
-          "pitch": -0.4200091689074661,
+          "yaw": -0.028304810704742778,
+          "pitch": -0.4228598472149887,
           "title": "<span dir=\"auto\">1. Jesus is Condemned to Death</span>",
           "text": "<p dir=\"auto\" style=\"margin:0;\">Now when Pilate heard this statement, he became even more afraid, and went back into the praetorium and said to Jesus, “Where are you from?” Jesus did not answer him. So Pilate said to him, “Do you not speak to me? Do you not know that I have power to release you and I have power to crucify you?” Jesus answered [him], “You would have no power over me if it had not been given to you from above. For this reason the one who handed me over to you has the greater sin.”<br>(John 19:8-11)</p>"
         }
@@ -152,8 +152,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.5413172231599486,
-          "pitch": -0.35574364718098295,
+          "yaw": -0.5339452009062207,
+          "pitch": -0.3596953791382873,
           "title": "<span dir=\"auto\">3. Jesus Falls the First Time</span>",
           "text": "<p dir=\"auto\" style=\"margin:0;\">“If the world hates you, realize that it hated me first. If you belonged to the world, the world would love its own; but because you do not belong to the world, and I have chosen you out of the world, the world hates you. Remember the word I spoke to you, ‘No slave is greater than his master.’ If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours.<br>(John 15:18-20)</p>"
         }
