@@ -42,8 +42,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.04826007148662548,
-          "pitch": -0.41702530403996896,
+          "yaw": -0.0349598561430291,
+          "pitch": -0.4200091689074661,
           "title": "<span dir=\"auto\">1. Jesus is Condemned to Death</span>",
           "text": "<p dir=\"auto\" style=\"margin:0;\">Now when Pilate heard this statement, he became even more afraid, and went back into the praetorium and said to Jesus, “Where are you from?” Jesus did not answer him. So Pilate said to him, “Do you not speak to me? Do you not know that I have power to release you and I have power to crucify you?” Jesus answered [him], “You would have no power over me if it had not been given to you from above. For this reason the one who handed me over to you has the greater sin.”<br>(John 19:8-11)</p>"
         }
@@ -97,8 +97,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.25262711067422394,
-          "pitch": -0.3919379450241749,
+          "yaw": -0.24009626223829095,
+          "pitch": -0.398560363651157,
           "title": "<span dir=\"auto\">2. Jesus Takes up His Cross</span>",
           "text": "<p dir=\"auto\" style=\"margin:0;\">It was preparation day for Passover, and it was about noon. And he said to the Jews, “Behold, your king!” They cried out, “Take him away, take him away! Crucify him!” Pilate said to them, “Shall I crucify your king?” The chief priests answered, “We have no king but Caesar.” Then he handed him over to them to be crucified. So they took Jesus, and carrying the cross himself he went out to what is called the Place of the Skull, in Hebrew, Golgotha.<br>(John 19:14-17)</p>"
         }
