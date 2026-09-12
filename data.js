@@ -42,10 +42,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.0031447105080602,
-          "pitch": -0.3957828389064719,
+          "yaw": -0.08314471050806019,
+          "pitch": -0.41578283890647194,
           "title": "<span dir=\"auto\">1. Jesus is Condemned to Death</span>",
-          "text": "<p dir=\"auto\" style=\"margin:0 0 1em;\">Now when Pilate heard this statement, he became even more afraid, and went back into the praetorium and said to Jesus, “Where are you from?” Jesus did not answer him. So Pilate said to him, “Do you not speak to me? Do you not know that I have power to release you and I have power to crucify you?” Jesus answered [him], “You would have no power over me if it had not been given to you from above. For this reason the one who handed me over to you has the greater sin.”<br>(John 19:8-11)</p>"
+          "text": "<p dir=\"auto\" style=\"margin:0;\">Now when Pilate heard this statement, he became even more afraid, and went back into the praetorium and said to Jesus, “Where are you from?” Jesus did not answer him. So Pilate said to him, “Do you not speak to me? Do you not know that I have power to release you and I have power to crucify you?” Jesus answered [him], “You would have no power over me if it had not been given to you from above. For this reason the one who handed me over to you has the greater sin.”<br>(John 19:8-11)</p>"
         }
       ]
     },
@@ -97,10 +97,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.24306233504106345,
-          "pitch": -0.3719497693601461,
+          "yaw": -0.23306233504106344,
+          "pitch": -0.39194976936014614,
           "title": "<span dir=\"auto\">2. Jesus Takes up His Cross</span>",
-          "text": "<p dir=\"auto\" style=\"margin:0 0 1em;\">It was preparation day for Passover, and it was about noon. And he said to the Jews, “Behold, your king!” They cried out, “Take him away, take him away! Crucify him!” Pilate said to them, “Shall I crucify your king?” The chief priests answered, “We have no king but Caesar.” Then he handed him over to them to be crucified. So they took Jesus, and carrying the cross himself he went out to what is called the Place of the Skull, in Hebrew, Golgotha.<br>(John 19:14-17)</p>"
+          "text": "<p dir=\"auto\" style=\"margin:0;\">It was preparation day for Passover, and it was about noon. And he said to the Jews, “Behold, your king!” They cried out, “Take him away, take him away! Crucify him!” Pilate said to them, “Shall I crucify your king?” The chief priests answered, “We have no king but Caesar.” Then he handed him over to them to be crucified. So they took Jesus, and carrying the cross himself he went out to what is called the Place of the Skull, in Hebrew, Golgotha.<br>(John 19:14-17)</p>"
         }
       ]
     },
@@ -152,10 +152,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.5514477158646827,
-          "pitch": -0.34331193032083007,
+          "yaw": -0.5214477158646826,
+          "pitch": -0.3533119303208301,
           "title": "<span dir=\"auto\">3. Jesus Falls the First Time</span>",
-          "text": "<p dir=\"auto\" style=\"margin:0 0 1em;\">TEST</p>"
+          "text": "<p dir=\"auto\" style=\"margin:0;\">“If the world hates you, realize that it hated me first. If you belonged to the world, the world would love its own; but because you do not belong to the world, and I have chosen you out of the world, the world hates you. Remember the word I spoke to you, ‘No slave is greater than his master.’ If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours.<br>(John 15:18-20)</p>"
         }
       ]
     },
@@ -207,10 +207,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.38978811637092825,
+          "yaw": -0.36978811637092823,
           "pitch": -0.30822502311659505,
           "title": "<span dir=\"auto\">4. Jesus Meets His Mother</span>",
-          "text": "<p dir=\"auto\" style=\"margin:0 0 1em;\">TEST</p>"
+          "text": "<p dir=\"auto\" style=\"margin:0;\">Standing by the cross of Jesus were his mother and his mother’s sister, Mary the wife of Clopas, and Mary of Magdala. When Jesus saw his mother* and the disciple there whom he loved, he said to his mother, “Woman, behold, your son.” Then he said to the disciple, “Behold, your mother.” And from that hour the disciple took her into his home.<br>(John 19:25-27)</p>"
         }
       ]
     },
@@ -248,7 +248,7 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.9647989679061233,
+          "yaw": -0.8847989679061232,
           "pitch": -0.2872475586196117,
           "rotation": 0,
           "target": "5-6-veronica-wipes-the-face-of-jesus"
@@ -262,10 +262,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -1.0540807597953155,
-          "pitch": -0.441092249167804,
+          "yaw": -0.9340807597953154,
+          "pitch": -0.461092249167804,
           "title": "<span dir=\"auto\">5. Simon of Cyrene Helps Jesus Carry the Cross</span>",
-          "text": "<p dir=\"auto\" style=\"margin:0 0 1em;\">TEST</p>"
+          "text": "<p dir=\"auto\" style=\"margin:0;\">As they led him away they took hold of a certain Simon, a Cyrenian, who was coming in from the country; and after laying the cross on him, they made him carry it behind Jesus.<br>(Luke 23:26)</p>"
         }
       ]
     },
@@ -317,10 +317,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.24745790700335313,
-          "pitch": -0.4899124478248318,
+          "yaw": -0.2274579070033531,
+          "pitch": -0.4999124478248318,
           "title": "<span dir=\"auto\">6. Veronica Wipes the Face of Jesus</span>",
-          "text": "<p dir=\"auto\" style=\"margin:0 0 1em;\">TEST</p>"
+          "text": "<p dir=\"auto\" style=\"margin:0;\">Then the righteous will answer him and say, ‘Lord, when did we see you hungry and feed you, or thirsty and give you drink? When did we see you a stranger and welcome you, or naked and clothe you? When did we see you ill or in prison, and visit you?’ And the king will say to them in reply, ‘Amen, I say to you, whatever you did for one of these least brothers of mine, you did for me.’<br>(Matthew 25:37-40)</p>"
         }
       ]
     },
@@ -372,10 +372,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.7752047953245196,
-          "pitch": -0.40614142354100125,
+          "yaw": -0.7352047953245195,
+          "pitch": -0.41614142354100125,
           "title": "<span dir=\"auto\">7. Jesus Falls the Second Time</span>",
-          "text": "<p dir=\"auto\" style=\"margin:0 0 1em;\">Text</p>"
+          "text": "<p dir=\"auto\" style=\"margin:0;\">Yet it was our pain that he bore, our sufferings he endured. We thought of him as stricken, struck down by God and afflicted, But he was pierced for our sins, crushed for our iniquity. He bore the punishment that makes us whole, by his wounds we were healed. We had all gone astray like sheep, all following our own way; But the LORD laid upon him the guilt of us all.<br>(Isaiah 53:4-6)</p>"
         }
       ]
     },
@@ -427,10 +427,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.7061137056867608,
-          "pitch": -0.4624580830973599,
+          "yaw": -0.6761137056867608,
+          "pitch": -0.4724580830973599,
           "title": "<span dir=\"auto\">8. Jesus Meets the Women of Jerusalem</span>",
-          "text": "<p dir=\"auto\" style=\"margin:0 0 1em;\">TEST</p>"
+          "text": "<p dir=\"auto\" style=\"margin:0;\">A large crowd of people followed Jesus, including many women who mourned and lamented him. Jesus turned to them and said, “Daughters of Jerusalem, do not weep for me; weep instead for yourselves and for your children, for indeed, the days are coming when people will say, ‘Blessed are the barren, the wombs that never bore and the breasts that never nursed.’ At that time people will say to the mountains, ‘Fall upon us!’ and to the hills, ‘Cover us!’ for if these things are done when the wood is green what will happen when it is dry?”<br>(Luke 23:27-31)</p>"
         }
       ]
     },
@@ -484,8 +484,8 @@ var APP_DATA = {
         {
           "yaw": 0.1716883626379424,
           "pitch": -0.4521485053368117,
-          "title": "<span dir=\"auto\">Title</span>",
-          "text": "<p dir=\"auto\" style=\"margin:0 0 1em;\">Text</p>"
+          "title": "<span dir=\"auto\">9. Jesus Falls the Third Time</span>",
+          "text": "<p dir=\"auto\" style=\"margin:0;\">My soul clings to the dust; give me life in accord with your word. I disclosed my ways and you answered me; teach me your statutes. Make me understand the way of your precepts; I will ponder your wondrous deeds. My soul is depressed; lift me up according to your word.<br>(Psalms 119:25-28)</p>"
         }
       ]
     },
@@ -540,7 +540,7 @@ var APP_DATA = {
           "yaw": 0.4697536424750144,
           "pitch": -0.4406517723583754,
           "title": "<span dir=\"auto\">10. Jesus is Stripped of His Garments</span>",
-          "text": "<p dir=\"auto\" style=\"margin:0 0 1em;\">TEST</p>"
+          "text": "<p dir=\"auto\" style=\"margin:0;\">When the soldiers had crucified Jesus, they took his clothes and divided them into four shares, a share for each soldier. They also took his tunic, but the tunic was seamless, woven in one piece from the top down. So they said to one another, “Let’s not tear it, but cast lots for it to see whose it will be,” in order that the passage of scripture might be fulfilled [that says]: “They divided my garments among them, and for my vesture they cast lots.” This is what the soldiers did.<br>(John 19:23-24)</p>"
         }
       ]
     },
@@ -592,10 +592,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.7902756589864204,
+          "yaw": 0.8002756589864204,
           "pitch": -0.46906620451296455,
           "title": "<span dir=\"auto\">11. Jesus is Nailed to the Cross</span>",
-          "text": "<p dir=\"auto\" style=\"margin:0 0 1em;\">TEST</p>"
+          "text": "<p dir=\"auto\" style=\"margin:0;\">and carrying the cross himself he went out to what is called the Place of the Skull, in Hebrew, Golgotha. There they crucified him, and with him two others, one on either side, with Jesus in the middle. Pilate also had an inscription written and put on the cross. It read, “Jesus the Nazorean, the King of the Jews.” Now many of the Jews read this inscription, because the place where Jesus was crucified was near the city; and it was written in Hebrew, Latin, and Greek.<br>(John 19:17-20)</p>"
         }
       ]
     },
@@ -647,10 +647,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.5424652163861072,
+          "yaw": 0.5624652163861072,
           "pitch": -0.23722361046892715,
           "title": "<span dir=\"auto\">12. Jesus Dies on the Cross</span>",
-          "text": "<p dir=\"auto\" style=\"margin:0 0 1em;\">Text</p>"
+          "text": "<p dir=\"auto\" style=\"margin:0;\">At noon darkness came over the whole land until three in the afternoon. And at three o’clock Jesus cried out in a loud voice, “Eloi, Eloi, lema sabachthani?” which is translated, “My God, my God, why have you forsaken me?” Some of the bystanders who heard it said, “Look, he is calling Elijah.” One of them ran, soaked a sponge with wine, put it on a reed, and gave it to him to drink, saying, “Wait, let us see if Elijah comes to take him down.” Jesus gave a loud cry and breathed his last. The veil of the sanctuary was torn in two from top to bottom. When the centurion who stood facing him saw how he breathed his last he said, “Truly this man was the Son of God!”<br>(Mark 15:33-39)</p>"
         }
       ]
     },
@@ -702,10 +702,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.711466925874678,
+          "yaw": 0.731466925874678,
           "pitch": -0.483620727348681,
           "title": "<span dir=\"auto\">13. Jesus is Taken Down from the Cross</span>",
-          "text": "<p dir=\"auto\" style=\"margin:0 0 1em;\">TEST</p>"
+          "text": "<p dir=\"auto\" style=\"margin:0;\">So the soldiers came and broke the legs of the first and then of the other one who was crucified with Jesus. But when they came to Jesus and saw that he was already dead, they did not break his legs, but one soldier thrust his lance into his side, and immediately blood and water flowed out. After this, Joseph of Arimathea, secretly a disciple of Jesus for fear of the Jews, asked Pilate if he could remove the body of Jesus. And Pilate permitted it. So he came and took his body. Nicodemus, the one who had first come to him at night, also came bringing a mixture of myrrh and aloes weighing about one hundred pounds.<br>(John 19:32-34, 38-39)</p>"
         }
       ]
     },
@@ -751,10 +751,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.12024801059450496,
-          "pitch": -0.5065860169063221,
+          "yaw": 0.019751989405495024,
+          "pitch": -0.5165860169063221,
           "title": "<span dir=\"auto\">14. Jesus is Laid in the Tomb</span>",
-          "text": "<p dir=\"auto\" style=\"margin:0 0 1em;\">TEST</p>"
+          "text": "<p dir=\"auto\" style=\"margin:0;\">They took the body of Jesus and bound it with burial cloths along with the spices, according to the Jewish burial custom. Now in the place where he had been crucified there was a garden, and in the garden a new tomb, in which no one had yet been buried. So they laid Jesus there because of the Jewish preparation day; for the tomb was close by.<br>(John 19:40-42)</p>"
         }
       ]
     }

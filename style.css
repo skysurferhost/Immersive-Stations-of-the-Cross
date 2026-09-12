@@ -1248,6 +1248,10 @@ body.ss-nav-hotspots-idle .info-hotspot-modal {
   margin-top:0 !important;
   margin-bottom:1em !important;
 }
+.info-hotspot .info-hotspot-text p:last-child,
+.info-hotspot-modal .info-hotspot-text p:last-child {
+  margin-bottom:0 !important;
+}
 .info-hotspot-modal .info-hotspot-title,
 .info-hotspot-modal .info-hotspot-text {
   unicode-bidi:plaintext;
